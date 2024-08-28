@@ -4,3 +4,5 @@ Minecraft Java için Modeller buradan çıkar! Takipte kalmayı unutmayın! Ve Y
 yeni Gelen Güncellemeleri, en sağ tarafta bulunan, Güncellemeler yerinden bakabilirsiniz.
 
 Copyright 2024(updated)
+
+Modelleme Güncellemeleri Buradan Çıkar!
