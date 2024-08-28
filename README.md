@@ -6,4 +6,4 @@ yeni Gelen Güncellemeleri, en sağ tarafta bulunan, Güncellemeler yerinden bak
 Copyright 2024(updated)
 
 Modelleme Güncellemeleri Buradan Çıkar!
-Testler Buradan Yapılır.
+
