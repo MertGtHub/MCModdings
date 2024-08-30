@@ -1,2 +1,4 @@
 pack.name=Mob Textures Project BP
 pack.description=New Mob Project From Github MCModdings!
+entity.mcmoddings:alien_creeper.name=Alien Creeper
+item.spawn_egg.entity.mcmoddings:alien_creeper.name=Spawn Alien Creeper
